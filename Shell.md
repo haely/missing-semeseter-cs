@@ -5,9 +5,11 @@ A shell is a command-line interpreter that allows you to interact with your comp
 Just like there are different operating systems (Windows, macOS, Linux), there are different shells with varying features and strengths. Here are a few popular ones:   
 
 **Bash (Bourne Again Shell)** 
-This is the most common shell on Linux and macOS systems;  known for its wide range of features, scripting capabilities.   
+This is the most common shell on Linux and macOS systems;  known for its wide range of features, scripting capabilities. 
+
 **Zsh (Z Shell)**
 Built upon Bash, offering enhanced features like plugins, themes, and improved auto-completion and 
+
 **Others** 
 PowerShell, Fish etc.
 
@@ -15,23 +17,30 @@ PowerShell, Fish etc.
 
 **System administration** 
 Managing users, configuring network settings, automating system maintenance tasks.   
+
 **Software development** 
 Compiling code, running tests, managing version control systems.
+
 **Data analysis**
 Processing and analyzing large datasets, running statistical models.
+
 **Everyday tasks** 
 Managing files, Auromation etc.
 
 ## Some magical Tools (Mac specific): 
 These are the tools that I install when I get a new mac. Get the latest versions from the official documents.
+
 **iTerm**
 Supercharged version of `terminal` the Mac default terminal. Helps split panes.
+
 **Homebrew**
 Mac (also Linux) package manager. Most tools, libraries can now be installed with a simple
 `brew install <my_tool>`
 and it's a picnic to update anything. 
+
 **Zsh**
 Only to get some cute cat themes for my terminal!
+
 **Tmux**
 Kind of like create different panes on one screen. Helps create persistent sessions, remote server management etc.
 
