@@ -106,7 +106,7 @@ This tells the system to use the Bash interpreter to execute the script.
 
 Add the commands you want to execute, one per line. For example:
 
-```bash
+```
 #!/bin/bash
 
 echo "Hello, world!"
